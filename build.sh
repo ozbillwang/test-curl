@@ -1,1 +1,1 @@
-curl -sL https://api.github.com/repos/kubernetes/helm/tags
+curl -sLI https://api.github.com/repos/kubernetes/helm/tags
